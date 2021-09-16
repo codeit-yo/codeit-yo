@@ -8,7 +8,7 @@ Graduated from TechTalent Academy bootcamp as a Full Stack Software Developer Au
 #### My Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeit-yo&hide=java,scss,less&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeit-yo&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeit-yo&show_icons=true&theme=radical" />
